@@ -1,4 +1,4 @@
-export class Impuestos {
+export class Impuesto {
     constructor(montoBrutoAnual, deducciones) {
       this._montoBrutoAnual = montoBrutoAnual;
       this._deducciones = deducciones;
